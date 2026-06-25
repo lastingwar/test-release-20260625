@@ -1,1 +1,0 @@
-GitHub token push test - OK
